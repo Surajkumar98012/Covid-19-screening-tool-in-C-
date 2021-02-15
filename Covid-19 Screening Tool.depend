@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612800457 source:e:\programs, app,and games\programs codes\c++\covid-19 screening tool\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<string.h>
+
